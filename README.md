@@ -3,7 +3,7 @@ DandelionProject
 
 a graphic musical sequencer
 
-Ann app I made for my Interface Design course
+An app I made for my Interface Design course
 
 This is a terribly written, and all in Processing sequencer app. Basically all nodes can delay and transfert a signal to "sound nodes" that make a sound. 
 
