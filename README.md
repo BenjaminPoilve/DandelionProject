@@ -12,3 +12,5 @@ It is a wonder this runs at all!
 More info on the PDF. 
 
 [![Demo](image.png)](https://drive.google.com/file/d/0BxsBFm8YwdRAellXZXNweGJsNms/view)
+
+(click image for video)
